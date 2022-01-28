@@ -22,12 +22,12 @@ In this challenge you will learn how to:
 
 ## Table of contents
 
-- Getting Started
-- Create Face Cognitive Service
-- Integrate Face Service Credential into Github Secret
-- Run Frontend Pipeline again
-- Take Selfies! How old are you really? Play around!
-- Overcharged? We got you covered
+- [Getting Started](https://github.com/alumnitud/FemaleAIAppInnovationEcosystem/blob/main/day2/Face/README.md#getting-started)
+- [Create Face Cognitive Service](https://github.com/alumnitud/FemaleAIAppInnovationEcosystem/blob/main/day2/Face/README.md#create-face-cognitive-service)
+- [Integrate Face Service Credential into Github Secret](https://github.com/alumnitud/FemaleAIAppInnovationEcosystem/blob/main/day2/Face/README.md#integrate-face-service-credential-into-github-secret)
+- [Run Frontend Pipeline again](https://github.com/alumnitud/FemaleAIAppInnovationEcosystem/blob/main/day2/Face/README.md#run-frontend-pipeline-again)
+- [Take Selfies! How old are you really? Play around!](https://github.com/alumnitud/FemaleAIAppInnovationEcosystem/blob/main/day2/Face/README.md#take-selfies-how-old-are-you-really-play-around)
+- [Overcharged? We got you covered](https://github.com/alumnitud/FemaleAIAppInnovationEcosystem/blob/main/day2/Face/README.md#overcharged-we-got-you-covered)
 
 ## Getting started
 
