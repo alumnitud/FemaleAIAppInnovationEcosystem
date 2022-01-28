@@ -22,6 +22,13 @@ In this challenge you will learn how to:
 
 ## Table of contents
 
+- Getting Started
+- Create Face Cognitive Service
+- Integrate Face Service Credential into Github Secret
+- Run Frontend Pipeline again
+- Take Selfies! How old are you really? Play around!
+- Overcharged? We got you covered
+
 ## Getting started
 
 The first step in creating our Face API is to create a new resource.
